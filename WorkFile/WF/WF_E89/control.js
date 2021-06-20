@@ -1,0 +1,4 @@
+var EXPERIMENT_NUMBER = 'MOT_E89';
+var VARIATION_NAME = 'CONTROL';    
+window.WF = window.WF || {};
+window.WF[EXPERIMENT_NUMBER] = VARIATION_NAME;

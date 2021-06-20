@@ -1,0 +1,18 @@
+Peer review is done with Refat Vai. Test is ready to go live.
+
+
+
+Test name: TEST003 - Product page with benefits[live]
+
+
+Test url: https://optimize.google.com/optimize/home/?authuser=7&hl=en-US#/accounts/4704029393/containers/14326744/experiments/54
+
+According to test plan We've set
+
+1. Traffic allocation: 100% (Original - 34%, Variant 1- 33%, Variant 2 - 33%)
+2. Audience: All(Desktop, Mobile and Tablet) and pageType equals catalog/product/view
+3. Url Target: URL contains electropapa.com/de
+
+
+Goal:
+Order (Goal ID 1)
